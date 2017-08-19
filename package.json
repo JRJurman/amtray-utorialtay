@@ -1,0 +1,16 @@
+{
+  "name": "amtray-utorialtay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo main.js --live"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^10.0.4",
+    "tram-one": "^1.4.1"
+  }
+}
